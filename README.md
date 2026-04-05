@@ -164,6 +164,7 @@ The model was evaluated on completely unseen test data using:
 ### Confusion Matrix
 
 <img width="498" height="455" alt="download" src="https://github.com/user-attachments/assets/ba979b37-8500-4928-8c78-5ccc943a0e48" />
+
 <img width="622" height="470" alt="download (1)" src="https://github.com/user-attachments/assets/8014809c-56aa-4456-82e6-fae0168597b4" />
 
 
@@ -173,7 +174,6 @@ Interpretation:
 * 50 patients correctly predicted as **CKD (Class 1)**
 * **0 false positives and 0 false negatives**
 
----
 
 ### Classification Report
 
@@ -366,41 +366,53 @@ ckd-prediction/
 
 ---
 
----
 ### Screenshots
 
-About The Project Page
+**About The Project Page**
+
 <img width="982" height="623" alt="image" src="https://github.com/user-attachments/assets/20061945-1ffa-4c69-ac1b-e841fff74b2c" />
 
-Navigation Bar 
+**Navigation Bar** 
+
 <img width="671" height="491" alt="image" src="https://github.com/user-attachments/assets/fc2e3006-1bd3-4484-8c30-95e7d57f420f" />
 
-User Instructions Page 
+**User Instructions Page** 
+
 <img width="982" height="573" alt="image" src="https://github.com/user-attachments/assets/54d878b6-c4d3-43ef-9bd4-c19b5da46aae" />
 
-Model Prediction Page
+**Model Prediction Page**
+
 <img width="960" height="548" alt="image" src="https://github.com/user-attachments/assets/73297c0a-f0fa-480b-918f-bd72048699db" />
+
 <img width="961" height="400" alt="image" src="https://github.com/user-attachments/assets/ab1bc39c-2724-4819-a576-efa49fab02d1" />
 
-Prediction 
+**Prediction** 
+
 <img width="983" height="280" alt="image" src="https://github.com/user-attachments/assets/5a76cc6f-0e1b-4d2e-a491-b427979fd331" />
 
-eGFR calculation and Stage Interpretation 
+**eGFR calculation and Stage Interpretation** 
+
 <img width="982" height="527" alt="image" src="https://github.com/user-attachments/assets/63a9f43d-4ade-4f3c-b0e7-d36e7247fffc" />
+
 <img width="984" height="283" alt="image" src="https://github.com/user-attachments/assets/7c1292d8-5da9-411b-9e6e-26f45c275e58" />
 
-SHAP with Prediction Probabilities
+**SHAP with Prediction Probabilities**
+
 <img width="982" height="239" alt="image" src="https://github.com/user-attachments/assets/ee54ff7f-b0aa-4641-8089-871bdb340323" />
 
-SHAP Waterfall Plot for local explanation
+**SHAP Waterfall Plot for local explanation**
+
 <img width="982" height="745" alt="image" src="https://github.com/user-attachments/assets/db2a7cc9-e747-48c2-822b-5c94faaf17c6" />
 
-Model Output Explanation
+**Model Output Explanation**
+
 <img width="982" height="921" alt="image" src="https://github.com/user-attachments/assets/f20ff1f6-b241-4f96-a66b-d400479ed0f9" />
 
-Additive Check Of Model Explanation
+**Additive Check Of Model Explanation**
+
 <img width="982" height="295" alt="image" src="https://github.com/user-attachments/assets/26a846ef-8b60-429d-aaba-41c5a7275acb" />
 
+---
 
 ## 🔮 Future Work
 
